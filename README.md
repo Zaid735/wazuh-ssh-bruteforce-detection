@@ -69,7 +69,7 @@ Alert Generation (Level 5 → Level 8)
 
 ## Screenshots
 
-(Add your screenshots in a /screenshots folder and link them here)
+screenshots
 
 SSH failed login attempts
 Wazuh Level 5 alert
