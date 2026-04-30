@@ -69,9 +69,14 @@ Alert Generation (Level 5 → Level 8)
 
 ## Screenshots
 
-screenshots/logs.png
-screenshots/rule 5.png
-screenshots/rule 8.png
+### SSH Failed Login Attempts
+![Logs](screenshots/logs.png)
+
+### Wazuh Level 5 Alert
+![Level 5](screenshots/rule5.png)
+
+### Wazuh Level 8 Alert
+![Level 8](screenshots/rule8.png)
 
 SSH failed login attempts
 Wazuh Level 5 alert
