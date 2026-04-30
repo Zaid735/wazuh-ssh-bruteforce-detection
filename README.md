@@ -69,7 +69,9 @@ Alert Generation (Level 5 → Level 8)
 
 ## Screenshots
 
-screenshots/https://github.com/Zaid735/wazuh-ssh-bruteforce-detection/blob/main/screenshots/logs.png?raw=true
+screenshots/logs.png
+screenshots/rule 5.png
+screenshots/rule 8.png
 
 SSH failed login attempts
 Wazuh Level 5 alert
